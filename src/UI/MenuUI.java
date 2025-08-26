@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
+ * HAHAHAHAHAHAHAHA
  * Represents the UI for the game's main menu.
  * Handles loading and rendering images, as well as managing button states.
  */
